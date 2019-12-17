@@ -1,4 +1,4 @@
 # Circular-Player-Movement
 This was for a school project where we had limitations on how many buttons we used, we could only use three. This was a way of making it feel like the player had more movement. The game was a bullet hell with the boss enemy in the middle who shot out patterns of bullets. We needed one button for player shooting, so we only had two buttons left for the movement. Insted of having the player bounce back and forth on the bottom of the screen I decided to have the player circle the boss on a track and let the player control whitch way it moves by pressing left or right. That way the player gets more ground to move on. 
 
-A player spinner is under the boss, the player is a child to it, but the code is on the player. The player spinner spins the player in the direction the player wants, so the player is not moving by it's self, the spinner is moving the player.
+A player spinner is under the boss, the player is a child to it, but the code is on the player. The player spinner spins the player in the direction the player wants, so the player is not moving by its self, the spinner is moving the player.
